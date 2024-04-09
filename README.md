@@ -1,2 +1,3 @@
 # Weather Website
  HTML,CSS,JAVA Script And API
+As the creator of this weather app. I have used HTML, CSS, and JavaScript to build a sleek and intuitive interface, and integrated a real-time weather API to provide users with accurate, up-to-date information. The app is responsive and works well across different devices, ensuring that users can access the weather data anywhere, anytime. I'm excited to see how people use and interact with the app, and I'm already thinking about ways to expand its functionality in the future. This project has been a great learning experience for me, and I'm grateful for the opportunity to showcase my skills as a web developer.
