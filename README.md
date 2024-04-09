@@ -1,2 +1,2 @@
-# u-tube-clone
- react,reactjs,taillwindcss
+# weather Website
+ HTML,CSS,JAVA Script And API
